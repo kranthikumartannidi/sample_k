@@ -34,7 +34,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       backgroundColor: Colors.amber,
       body: Container(
-        child:Text('hello'),
+        child:Text('hello india '),
       ),
       
     );
