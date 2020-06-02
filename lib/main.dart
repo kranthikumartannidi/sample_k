@@ -32,9 +32,11 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.amber,
+      backgroundColor: Colors.black12,
       body: Container(
-        child:Text('Kranthi kumar tannidi.....................'),
+        child:Container(
+          child:Text("text"),
+        )
       ),
       
     );
